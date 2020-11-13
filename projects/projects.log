@@ -1,0 +1,27 @@
+T-Spice - Tanner SPICE
+Version 2016.1.2
+License validated.
+Product Release ID: T-Spice Win64 2016.1.2.20160620.10:22:07
+Copyright © 1988-2016 Mentor Graphics Corporation
+
+	Parsing "C:\Users\mqaro\wayesh.github.io\projects.md"
+	Initializing parser from header file "C:\MENTOR~1\TANNER~1\TANNER~1.1\x64\tiburonda\models\VAdatabase.sp"
+Fatal Error : "projects.md" line 2 (inductor syntax error) ->  ""
+Fatal Error : Error while parsing.   Will attempt to continue.
+Fatal Error : "projects.md" line 3 unknown keyword -> ---
+Fatal Error : Error while parsing.   Will attempt to continue.
+Fatal Error : "projects.md" line 3 unknown keyword -> [Home]
+Fatal Error : Error while parsing.   Will attempt to continue.
+Fatal Error : "projects.md" line 6 unknown keyword -> #
+Fatal Error : Error while parsing.   Will attempt to continue.
+Fatal Error : "projects.md" line 8 unknown keyword -> >
+Fatal Error : Error while parsing.   Will attempt to continue.
+Fatal Error : "projects.md" line 9 unknown keyword -> <center>
+Fatal Error : Exceeded maxsyntaxerrors=5 parse errors.
+
+Parsing                      0.05 seconds
+Overhead                    25.45 seconds
+-----------------------------------------
+Total                       25.50 seconds
+
+Simulation failed	with  12 Fatal Errors
